@@ -6,7 +6,7 @@ Get a full Sudoku board
 board = Board.create(verbose=True)
 print(board) 
 ```
-Example result:
+Example result with `verbose=True`:
 ```python
 # passed: [2, 8, 6, 4, 1, 5, 9, 3, 7] time: 0.0s iterations: 1
 # passed: [4, 7, 9, 2, 8, 3, 6, 5, 1] time: 0.0s iterations: 35

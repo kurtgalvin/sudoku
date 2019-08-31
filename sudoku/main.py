@@ -113,8 +113,3 @@ class Board(object):
 
     def __str__(self):
         return 'Board:' + ''.join([f"\n{i}" for i in self.rows])
-
-
-if __name__ == '__main__':
-    board = Board.create(verbose=True)
-    print(board)

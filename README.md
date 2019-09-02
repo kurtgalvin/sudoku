@@ -1,4 +1,5 @@
 # sudoku
+Sudoku Board Builder
 
 ## How to:
 Get a full Sudoku board
